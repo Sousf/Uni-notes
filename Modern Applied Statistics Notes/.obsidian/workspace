@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Binomial Regression/Binomial Regression.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 370.5
   },
   "right": {
     "id": "bb50139093f9f68c",
@@ -130,6 +130,10 @@
   },
   "active": "2b1c2fafdc65eda3",
   "lastOpenFiles": [
+    "Binomial Regression/Fisher Information.md",
+    "Binomial Regression/Hessian Matrix.md",
+    "Binomial Regression/Observed Information.md",
+    "Binomial Regression/Binomial Regression.md",
     "Code snippets.md"
   ]
 }

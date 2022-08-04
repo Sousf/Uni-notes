@@ -1,0 +1,1 @@
+Hessian Matrix is a square matrix of second order partial derivatives of the log likelihood.
