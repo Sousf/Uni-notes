@@ -27,7 +27,7 @@ Where
 
 **Steps to estimating the parameters:**
 1. Identify the Marginal PMFs
-	- **$Pr(y = k) = {n \choose k}p^k(1-p)^{n-k}$
+	- $Pr(y = k) = {n \choose k}p^k(1-p)^{n-k}$
 
 1. Find the Likelihood function 
 	- $\Pi{n \choose k}p^k(1-p)^{n-k}$
