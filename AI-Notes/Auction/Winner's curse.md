@@ -1,0 +1,1 @@
+The winner might have valued the good too highly because there are no other bids

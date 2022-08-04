@@ -1,0 +1,1 @@
+bidder can see only its own bids, can't see others' bids

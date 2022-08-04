@@ -1,0 +1,1 @@
+The worth of the good is the same for all bidders, but that worth is unknown a priori, and must be estimated by each bidder.

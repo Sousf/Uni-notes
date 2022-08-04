@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "27c388f612e61e02",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe89e8c3d17089c8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Predicate Logic/Predicate Logic.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c4a0d132ec23f59",
+    "type": "split",
+    "children": [
+      {
+        "id": "dce0a8a3b0d13bdc",
+        "type": "tabs",
+        "dimension": 14.57725947521866,
+        "children": [
+          {
+            "id": "d5d9dc4a48b2e7e3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a1d8c0062d52e7e3",
+        "type": "tabs",
+        "dimension": 85.42274052478135,
+        "children": [
+          {
+            "id": "019315595acf5044",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6c0f2f0fcd2582de",
+    "type": "split",
+    "children": [
+      {
+        "id": "fff8a67c2ef922df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0981134a56dfab20",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Predicate Logic/Predicate Logic.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "fe89e8c3d17089c8",
+  "lastOpenFiles": [
+    "Predicate Logic/Predicate Logic.md",
+    "Predicate Logic/Quantifiers.md",
+    "Context Free Language/CFL Closure.md",
+    "Context Free Language/Context Free Grammar.md",
+    "Context Free Language/Constructing PDA from CFG.md",
+    "Context Free Language/Context Free Language.md",
+    "Context Free Language/Chomky's Normal Form.md",
+    "Context Free Language/Deterministic PDA.md",
+    "Context Free Language/Progressive PDA.md",
+    "Context Free Language/Pushdown Automata.md"
+  ]
+}

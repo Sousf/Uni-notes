@@ -1,0 +1,1 @@
+every bidder can see all bids from all other bidders

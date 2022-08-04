@@ -1,0 +1,1 @@
+Each bidder $i$ has a utility value $v_i$ that reflects the worth of the good to the bidder.

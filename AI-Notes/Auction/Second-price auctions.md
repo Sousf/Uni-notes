@@ -1,0 +1,1 @@
+bidder with highest bid wins, but pays the price of the second highest bidder.

@@ -1,0 +1,1 @@
+The dominant strategy results in bidders revealing their true value for the good

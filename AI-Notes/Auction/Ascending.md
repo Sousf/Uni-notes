@@ -1,0 +1,1 @@
+each successive bid must exceed the previous bid

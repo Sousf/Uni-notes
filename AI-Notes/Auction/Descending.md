@@ -1,0 +1,1 @@
+auctioneer starts from a high price, and each bid must be lower than the previous bid

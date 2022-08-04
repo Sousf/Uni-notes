@@ -1,0 +1,1 @@
+many goods are available in the auction, so bids can include both the price and number of goods wanted by the bidder. Known as a *combinatorial auction*.

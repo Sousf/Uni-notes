@@ -1,0 +1,1 @@
+The goods go to the agent who values them the most

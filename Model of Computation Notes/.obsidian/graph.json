@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Turing Machine\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Regular Languages\"",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"Context Free Language\"",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"Propositional Logic\"",
+      "color": {
+        "a": 1,
+        "rgb": 2812627
+      }
+    },
+    {
+      "query": "path:\"Predicate Logic\"",
+      "color": {
+        "a": 1,
+        "rgb": 65450
+      }
+    },
+    {
+      "query": "path:\"Set Relations\"",
+      "color": {
+        "a": 1,
+        "rgb": 5526240
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -0.4,
+  "nodeSizeMultiplier": 1.1185393258427,
+  "lineSizeMultiplier": 1.03595505617978,
+  "collapse-forces": false,
+  "centerStrength": 0.297872340425532,
+  "repelStrength": 9.78723404255319,
+  "linkStrength": 1,
+  "linkDistance": 294,
+  "scale": 0.5359795443550056,
+  "close": true
+}

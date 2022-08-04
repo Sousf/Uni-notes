@@ -1,0 +1,8 @@
+[[Episodic]]
+[[Continuous]]
+[[Discrete]]
+[[Dynamic]]
+[[Observable]]
+[[Static]]
+[[Stochastic]]
+[[Deterministic]]

@@ -1,0 +1,1 @@
+The environment only contain finite number of possible **percepts** (input) and **actions**

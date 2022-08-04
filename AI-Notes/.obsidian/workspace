@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "4faadb68befdfc58",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f48c093d68e2b90",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Constraint Satisfaction Problems/Constraint Satisfaction Problem.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3861dadf07f175b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a0355cdcc833d04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f5fda269f7b59dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6ff6df57ca3ce881",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.50868225097656
+  },
+  "right": {
+    "id": "fb9654866dde1389",
+    "type": "split",
+    "children": [
+      {
+        "id": "929f07e680922dc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2dd3a72820ba39e8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Constraint Satisfaction Problems/Constraint Satisfaction Problem.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8f48c093d68e2b90",
+  "lastOpenFiles": [
+    "Constraint Satisfaction Problems/Constraint Satisfaction Problem.md",
+    "Syllabus.md",
+    "Search Algorithms/Bidirectional Search.md",
+    "Search Algorithms/Uniform-cost search.md",
+    "Search Algorithms/Monotonic.md",
+    "Search Algorithms/Heuristic Search.md",
+    "Search Algorithms/General Search.md",
+    "Bayesian Belief Networks/Product and Chain Rule.md",
+    "Search Algorithms/Admissible.md",
+    "Auction/Auctions.md"
+  ]
+}

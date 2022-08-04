@@ -1,0 +1,1 @@
+In this environment, only the current (or recent) percept is relevant, and we don't carry about the future states.

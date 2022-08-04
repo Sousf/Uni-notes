@@ -1,0 +1,1 @@
+- A PDA is called progressive iff for for all states in $Q$, there are no $\epsilon$ transition, i.e all states will consume at least 1 input from from the input string.

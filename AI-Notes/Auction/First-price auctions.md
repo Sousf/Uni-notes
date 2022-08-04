@@ -1,0 +1,1 @@
+bidder with highest bid is allocated the good

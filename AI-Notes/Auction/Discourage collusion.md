@@ -1,0 +1,1 @@
+The auction mechanism should discourage illegal or unfair agreements between two or more bidders to manipulate prices. 

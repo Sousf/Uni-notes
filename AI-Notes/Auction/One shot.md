@@ -1,0 +1,1 @@
+each bidder can make only one bid

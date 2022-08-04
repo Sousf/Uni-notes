@@ -1,0 +1,1 @@
+Are theoretical machines consisting of [[DFA]] and [[NFA]]

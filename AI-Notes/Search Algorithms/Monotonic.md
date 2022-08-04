@@ -1,0 +1,1 @@
+A heuristic is monotonic if in every path from the root to the goal the total estimated path cost does not decrease as the heuristic goes down a node tree.

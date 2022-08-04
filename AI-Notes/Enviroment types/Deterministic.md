@@ -1,0 +1,1 @@
+The **current** state of this environment can uniquely determines the **next** state of the environment.

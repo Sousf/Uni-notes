@@ -1,0 +1,1 @@
+In this environment, percept contains all relevant information about the world

@@ -1,0 +1,1 @@
+only one individual visible good is for sale

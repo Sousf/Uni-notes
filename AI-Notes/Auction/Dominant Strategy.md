@@ -1,0 +1,1 @@
+There exists a dominant strategy for bidders, *where a strategy is dominant if it gives the bidder a better pay-off than any other strategy.* 

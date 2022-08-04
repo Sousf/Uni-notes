@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "861a830947060b55",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8357fb0ff1677a7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Regression.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "172fecd5a7a6af84",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c4bfa9bcbf207ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96463c4084e80b27",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a14ee736cf77162b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "120fed866dadd10a",
+    "type": "split",
+    "children": [
+      {
+        "id": "63a12accbdbcfe33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e58e52f6ae9a2750",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Regression.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d8357fb0ff1677a7",
+  "lastOpenFiles": [
+    "Regression.md"
+  ]
+}

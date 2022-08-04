@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "81f6449bf4fbd802",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b1c2fafdc65eda3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Code snippets.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5cb992411168a15d",
+    "type": "split",
+    "children": [
+      {
+        "id": "54584e43769a95a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbc60c6faf10b0e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "47fb570563add326",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7f4b6e9c872fe766",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bb50139093f9f68c",
+    "type": "split",
+    "children": [
+      {
+        "id": "82210e467458da03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "173518d1154b0fe7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Code snippets.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ab7a971aa83fc37d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Code snippets.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b13f89ec7969354c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b3d38e33e66dd8be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Code snippets.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2b1c2fafdc65eda3",
+  "lastOpenFiles": []
+}

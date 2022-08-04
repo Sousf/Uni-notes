@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "7ee44c2b301fd719",
+    "type": "split",
+    "children": [
+      {
+        "id": "d464b7bbfef7d222",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Project 1/Notes.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "79ebd81a7bd1b66a",
+    "type": "split",
+    "children": [
+      {
+        "id": "06bf6fb26f06002e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a472e50c0a2519c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ea19cb666df7be95",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a2fb76a62a137fac",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cf28943238fcbedc",
+    "type": "split",
+    "children": [
+      {
+        "id": "23a4b43026734831",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b332c1ebc15605b2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Project 1/Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2a10b3684f4d02b0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Project 1/Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b2ed7f644534c015",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9c2f8646c69c1da6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Project 1/Notes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d464b7bbfef7d222",
+  "lastOpenFiles": [
+    "Spectral Decomposition of the Covariance Matrix.md",
+    "PCA/PCA.md",
+    "Project 1/Plan.md",
+    "Project 1/Notes.md",
+    "Project 1/Format.md",
+    "Project 1/Untitled.md",
+    "Project 1/images/Pasted image 20220726121032.png",
+    "Project 1/Questions.md"
+  ]
+}
