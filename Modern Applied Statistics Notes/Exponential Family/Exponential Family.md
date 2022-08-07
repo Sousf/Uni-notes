@@ -11,7 +11,7 @@ For exponential family
 - **Var(Y)** = $b''(\theta)a(\phi)$
 
 
-
+### Example
 [[Normal Distribution example]]
 [[Poisson Distribution example]]
 [[Binomial Distribution example]]
