@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Likelihood Ratio Test.md",
+            "file": "Exponential Family/Exponential Family.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Likelihood Ratio Test.md",
+                "file": "Exponential Family/Exponential Family.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Likelihood Ratio Test.md",
+                "file": "Exponential Family/Exponential Family.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Likelihood Ratio Test.md"
+                "file": "Exponential Family/Exponential Family.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "2b1c2fafdc65eda3",
   "lastOpenFiles": [
+    "Exponential Family/Normal Distribution example.md",
+    "Exponential Family/Exponential Family.md",
+    "Exponential Family/Binomial Distribution example.md",
+    "Exponential Family/Poisson Distribution example.md",
+    "Untitled.md",
+    "[code] MLE, GLM for binomial regression, Wald test....md",
+    "Likelihood Ratio Test.md",
     "Wald-test.md",
     "Binomial Regression/Binomial Regression.md",
-    "Scale Deviance/Scale Deviance.md",
-    "[code] Scale Deviance.md",
-    "log-likelihood ratio.md",
-    "Learning Goals.md",
-    "[code] MLE, GLM for binomial regression, Wald test....md",
-    "Binomial Regression/Fisher Information.md",
-    "Binomial Regression/Hessian Matrix.md",
-    "Binomial Regression/Observed Information.md"
+    "Scale Deviance/Scale Deviance.md"
   ]
 }
