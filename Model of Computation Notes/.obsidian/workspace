@@ -7,11 +7,8 @@
         "id": "fe89e8c3d17089c8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Predicate Logic/Predicate Logic.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Predicate Logic/Predicate Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
