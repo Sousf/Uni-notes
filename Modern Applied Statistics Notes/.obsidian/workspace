@@ -9,7 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
+            "file": "log-likelihood ratio.md",
+=======
             "file": "Exponential Family/Variance function.md",
+>>>>>>> 0797a96186244fe1f8c876416b6df67cb8376b3a
             "mode": "source",
             "source": false
           }
@@ -77,7 +81,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+                "file": "log-likelihood ratio.md",
+=======
                 "file": "Exponential Family/Variance function.md",
+>>>>>>> 0797a96186244fe1f8c876416b6df67cb8376b3a
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +102,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
+                "file": "log-likelihood ratio.md",
+=======
                 "file": "Exponential Family/Variance function.md",
+>>>>>>> 0797a96186244fe1f8c876416b6df67cb8376b3a
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +129,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
+                "file": "log-likelihood ratio.md"
+=======
                 "file": "Exponential Family/Variance function.md"
+>>>>>>> 0797a96186244fe1f8c876416b6df67cb8376b3a
               }
             }
           }
@@ -130,6 +146,18 @@
   },
   "active": "2b1c2fafdc65eda3",
   "lastOpenFiles": [
+<<<<<<< HEAD
+    "Likelihood Ratio Test.md",
+    "Learning Goals.md",
+    "[code] MLE, GLM for binomial regression, Wald test....md",
+    "Wald-test.md",
+    "Binomial Regression/Binomial Regression.md",
+    "Scale Deviance/Scale Deviance.md",
+    "[code] Scale Deviance.md",
+    "log-likelihood ratio.md",
+    "Binomial Regression/Fisher Information.md",
+    "Binomial Regression/Hessian Matrix.md"
+=======
     "Exponential Family/Exponential Family.md",
     "Exponential Family/Normal Distribution example.md",
     "Exponential Family/Variance function.md",
@@ -140,5 +168,6 @@
     "Likelihood Ratio Test.md",
     "Wald-test.md",
     "Binomial Regression/Binomial Regression.md"
+>>>>>>> 0797a96186244fe1f8c876416b6df67cb8376b3a
   ]
 }
