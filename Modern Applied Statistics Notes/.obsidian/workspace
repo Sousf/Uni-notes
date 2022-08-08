@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Exponential Family/Variance function.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -130,10 +130,10 @@
   },
   "active": "2b1c2fafdc65eda3",
   "lastOpenFiles": [
-    "Exponential Family/Poisson Distribution example.md",
+    "Exponential Family/Exponential Family.md",
     "Exponential Family/Normal Distribution example.md",
     "Exponential Family/Variance function.md",
-    "Exponential Family/Exponential Family.md",
+    "Exponential Family/Poisson Distribution example.md",
     "Exponential Family/Binomial Distribution example.md",
     "Untitled.md",
     "[code] MLE, GLM for binomial regression, Wald test....md",
