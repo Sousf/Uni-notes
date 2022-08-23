@@ -43,6 +43,12 @@ Where
 	- R has its own way of doing this
 
 
+**Important note about Parameter Estination**
+- This is done differently in R
+- it turns out that we can compute the parameters by solving a least square problem
+- This technique is called [[Iterative Weighted Least Squares]]
+
+
 
 
 
