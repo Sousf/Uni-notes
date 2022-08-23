@@ -49,6 +49,8 @@ Where
 - This technique is called [[Iterative Weighted Least Squares]]
 
 
+The Parameters distribution is
+$\hat{\theta} = N(\theta, I(\theta)^{-1})$
 
 
 

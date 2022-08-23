@@ -15,10 +15,13 @@ $(\Sigma^{-1/2}y - \Sigma^{-1/2}X\beta)^T(\Sigma^{-1/2}y - \Sigma^{-1/2}X\beta)$
 
 So now:
 $g(Y_i) \approx g(\mu_i) + (Y_i - \mu_i)g'(\mu_i)$
+- This is the tail expansion approximation to give $g(Y_i)$ a linear form, proof was not given
+- This has to be done as $g(Y_i)$ originally did not have a linear form. With this new form it will look more like a linear model
 
 Let $Z_i = g(\mu_i) + (Y_i - \mu_i)g'(\mu_i)$ and $\epsilon = (Y_i - \mu_i)g'(\mu_i)$,
 **Then**
 $Z_i = x_{i}^{T}\beta +\epsilon_i$
+- This is the linear form we were looking for.
 
 **where**
 Var $\epsilon_i$ = $(g'(\mu_i))^2Var(Y_i)$
