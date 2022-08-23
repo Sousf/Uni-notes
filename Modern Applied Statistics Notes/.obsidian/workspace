@@ -1,6 +1,5 @@
 {
   "main": {
-<<<<<<< HEAD
     "id": "c33721a898cac006",
     "type": "split",
     "children": [
@@ -14,24 +13,12 @@
             "mode": "source",
             "source": false
           }
-=======
-    "id": "3f55bd7e4e7327b6",
-    "type": "split",
-    "children": [
-      {
-        "id": "0aea8f66ba6c57b4",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
->>>>>>> ca881e03f843aab7dc182f18a296f6481134a3a8
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-<<<<<<< HEAD
     "id": "849b67211db590d9",
     "type": "split",
     "children": [
@@ -41,17 +28,6 @@
         "children": [
           {
             "id": "fd900b856fc3a467",
-=======
-    "id": "974e63d072902a38",
-    "type": "split",
-    "children": [
-      {
-        "id": "235593bed382e957",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "85c996452b003e08",
->>>>>>> ca881e03f843aab7dc182f18a296f6481134a3a8
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -59,11 +35,7 @@
             }
           },
           {
-<<<<<<< HEAD
             "id": "009bfe7a07ca8986",
-=======
-            "id": "956489d2d57dacb0",
->>>>>>> ca881e03f843aab7dc182f18a296f6481134a3a8
             "type": "leaf",
             "state": {
               "type": "search",
@@ -78,11 +50,7 @@
             }
           },
           {
-<<<<<<< HEAD
             "id": "444d710ae3cbbe72",
-=======
-            "id": "cec4fb6341d88c53",
->>>>>>> ca881e03f843aab7dc182f18a296f6481134a3a8
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -96,7 +64,6 @@
     "width": 300
   },
   "right": {
-<<<<<<< HEAD
     "id": "a8ab1303729578e7",
     "type": "split",
     "children": [
@@ -106,25 +73,11 @@
         "children": [
           {
             "id": "e1f8d72e481e3257",
-=======
-    "id": "6e8d366ed642586b",
-    "type": "split",
-    "children": [
-      {
-        "id": "f20b7c1d430e5bc8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "24ab555b224db5a4",
->>>>>>> ca881e03f843aab7dc182f18a296f6481134a3a8
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
                 "file": "Binomial Regression/Diagnostic/Diagnostic.md",
-=======
->>>>>>> ca881e03f843aab7dc182f18a296f6481134a3a8
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,30 +89,19 @@
             }
           },
           {
-<<<<<<< HEAD
             "id": "029e3d4dcabfa2f7",
-=======
-            "id": "35ae324240906ffb",
->>>>>>> ca881e03f843aab7dc182f18a296f6481134a3a8
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
                 "file": "Binomial Regression/Diagnostic/Diagnostic.md",
-=======
->>>>>>> ca881e03f843aab7dc182f18a296f6481134a3a8
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-<<<<<<< HEAD
             "id": "b06d30bfe30bcdcc",
-=======
-            "id": "0d3f4ae6ab3d832a",
->>>>>>> ca881e03f843aab7dc182f18a296f6481134a3a8
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -170,7 +112,6 @@
             }
           },
           {
-<<<<<<< HEAD
             "id": "7ad4c3085b6f8064",
             "type": "leaf",
             "state": {
@@ -178,13 +119,6 @@
               "state": {
                 "file": "Binomial Regression/Diagnostic/Diagnostic.md"
               }
-=======
-            "id": "f30905d242580f2c",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
->>>>>>> ca881e03f843aab7dc182f18a296f6481134a3a8
             }
           }
         ]
@@ -194,22 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-<<<<<<< HEAD
   "active": "c28402fe75d0e288",
   "lastOpenFiles": [
-    "Pearson Residuals.md",
+    "Binomial Regression/Fisher Information.md",
+    "Binomial Regression/Hessian Matrix.md",
     "Binomial Regression/Diagnostic/Diagnostic.md",
+    "Pearson Residuals.md",
     "Deviance Residuals.md",
     "Response Residuals.md",
     "Scale Deviance and Deviance/Deviance.md",
     "Scale Deviance and Deviance/Scale Deviance.md",
     "Likelihood Ratio Test.md",
-    "log-likelihood ratio.md",
-    "Exponential Family/Variance function.md",
-    "Exponential Family/Poisson Distribution example.md"
+    "log-likelihood ratio.md"
   ]
-=======
-  "active": "0aea8f66ba6c57b4",
-  "lastOpenFiles": []
->>>>>>> ca881e03f843aab7dc182f18a296f6481134a3a8
 }
