@@ -1,0 +1,1 @@
+$$log(P(X,Z|\theta))$$
