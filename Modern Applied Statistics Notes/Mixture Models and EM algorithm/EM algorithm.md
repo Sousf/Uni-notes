@@ -45,13 +45,11 @@ where we've simply maginalized **Z** out of the joint distribution.
 4. Evaluate the [[Incomplete log-likelihood]] with $\hat{\theta}$. If the [[Incomplete log-likelihood]] has changed by less than some small $\epsilon$, stop. Otherwise, replace the current values with the new parameter estimates $(\theta^0,\hat{\theta})$ and go back to step 2.
 
 
+#### example of one derivation for one iteration of em algorithm
+- [[EM-Algorithm-One-Iteration-Example.pdf]]
 
-
-
-
-
-
-
+#### Code example for em algorithm
+- [[EM-1.pdf]]
 
 
 
