@@ -1,5 +1,5 @@
 ### Overview:
-- An implementation of MCMC
+- An implementation of [[MCMC]]
 
 
 ### Process:
@@ -13,3 +13,6 @@
 
 ![[Pasted image 20220928121344.png]]
 ![[Pasted image 20220928121356.png]]
+
+### Example:
+[[MHexample-1.pdf]]
